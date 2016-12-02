@@ -7,7 +7,7 @@ Engine class.
 Making it work
 --------------
 To make this library work you need tesseract-ocr and leptonica libraries and
-headers and a C++ compiler.
+headers and a C++ compiler. This has been forked to work on Ubuntu 16.04 with libtesseract 3.0.4
 
 The gem is called `tesseract-ocr`.
 
